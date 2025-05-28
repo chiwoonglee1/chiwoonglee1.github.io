@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-민경",
+        },{id: "post-test",
         
-          title: "민경",
+          title: "Test",
         
         description: "an example of a distill-style blog post and main elements",
         section: "Posts",
