@@ -149,9 +149,9 @@ collections:
   news:
     defaults:
       layout: post
-    output: false #cw
+    output: true #cw
   projects:
-    output: false #cw
+    output: true #cw
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
