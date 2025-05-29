@@ -16,11 +16,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-test",
+        },{id: "post-how-to-minimize-accuracy-drop-in-onnx-model-quantization",
         
-          title: "Test",
+          title: "How to Minimize Accuracy Drop in ONNX Model Quantization",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: ".",
         section: "Posts",
         handler: () => {
           
