@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-how-to-minimize-accuracy-drop-in-onnx-model-quantization",
+        },{id: "post-how-to-enhance-model-performance-in-onnx-quantization",
         
-          title: "How to Minimize Accuracy Drop in ONNX Model Quantization",
+          title: "How to Enhance Model Performance in ONNX Quantization",
         
         description: ".",
         section: "Posts",
